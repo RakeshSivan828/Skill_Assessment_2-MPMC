@@ -68,7 +68,8 @@ END MAIN
 ```
 ## OUTPUT:
 
-![WhatsApp Image 2025-10-24 at 00 04 59_53bb4502](https://github.com/user-attachments/assets/51db3f62-913e-4efc-9cb8-399cbf58eef9)
+<img width="1719" height="718" alt="image" src="https://github.com/user-attachments/assets/7185c989-389c-4543-a142-bce21470d776" />
+
 
 ## RESULT:
 Thus ,The program to to generate a 1 second delay using Timer 1 in Mode 1 and toggle all bits of Port 1 continuously was done and shown the output.

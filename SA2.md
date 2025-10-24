@@ -68,7 +68,7 @@ END MAIN
 ```
 ## OUTPUT:
 
-<img width="1719" height="718" alt="image" src="https://github.com/user-attachments/assets/7185c989-389c-4543-a142-bce21470d776" />
+<img width="1271" height="712" alt="image" src="https://github.com/user-attachments/assets/065c963d-33b5-46f0-8117-9bcf7e88da5a" />
 
 
 ## RESULT:
